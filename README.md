@@ -5,7 +5,7 @@ Below is the steps to create a smart contract for Profit splitter using solidity
 
 Below is the inital balance in our wallet:
 
-![Imageofinitialbalance](https://github.com/pyagh11/HW20/blob/main/initialbalance.png)
+![Imageofinitialbalance](https://github.com/pyagh11/HW20/blob/main/HW20images/initialbalance.png)
 
 After running the transfer we see the below:
 
