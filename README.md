@@ -9,4 +9,4 @@ Below is the inital balance in our wallet:
 
 After running the transfer we see the below:
 
-![Imageofnewbalance](https://github.com/pyagh11/HW20/blob/main/newbalance.png)
+![Imageofnewbalance](https://github.com/pyagh11/HW20/blob/main/HW20images/newbalance.png)
