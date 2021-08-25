@@ -1,6 +1,8 @@
 # **Unit 20 - "Looks like we've made our First Contract!"**
+
 ![image](smart-contract (1).png)
-# Below is the steps to create a smart contract for Profit splitter using solidity.
+
+# Below is a description of steps to create a smart contract for Profit splitter using solidity.
 
 
 # Contract is compiled and deployed using “Injected Web3” and assignment of the 3 employee accounts
