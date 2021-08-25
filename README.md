@@ -15,7 +15,7 @@ HR Account:
 Employee accounts:
 ![image](/20images/Picture3.png)
 
-#Funding the contract first to cover gas in order to be able to deposit, therefore, contract was initially funded with 11 Ether we see balance:
+# Funding the contract first to cover gas in order to be able to deposit, therefore, contract was initially funded with 11 Ether we see balance:
 ![image](/20images/Picture4.png)
 ![image](/20images/Picture5.png)
 
