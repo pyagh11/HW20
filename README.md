@@ -1,6 +1,6 @@
 # **Unit 20 - "Looks like we've made our First Contract!"**
 
-![image](smart-contract (1).png)
+![image](/smart-contract (1).png)
 
 # Below is a description of steps to create a smart contract for Profit splitter using solidity.
 
@@ -11,6 +11,7 @@
 # Next we select accounts:
 HR Account:
 ![image](/20images/Picture2.png)
+
 Employee accounts:
 ![image](/20images/Picture3.png)
 
