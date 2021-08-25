@@ -1,6 +1,6 @@
 # **Unit 20 - "Looks like we've made our First Contract!"**
 
-![image](/smart-contract (1).png)
+![image](https://github.com/pyagh11/HW20/blob/main/smart-contract%20(1).png)
 
 # Below is a description of steps to create a smart contract for Profit splitter using solidity.
 
